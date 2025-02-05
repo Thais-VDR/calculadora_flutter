@@ -1,16 +1,17 @@
-# calculadora_flutter
+# Calculadora_flutter
 
-A new Flutter project.
+Este é um projeto simples de uma calculadora desenvolvida utilizando Flutter. O objetivo deste projeto é fornecer uma experiência de cálculo fácil e rápida, com uma interface funcional.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Funcionalidades
+- Realiza operações básicas como soma, subtração, multiplicação e divisão.
+- Interface intuitiva e fácil de usar.
+- Design responsivo para diferentes tamanhos de tela.
 
-A few resources to get you started if this is your first Flutter project:
+## Tecnologias Utilizadas
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter: Framework para criação de interfaces de usuário nativas.
+- Dart: Linguagem de programação utilizada no Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="![image](https://github.com/user-attachments/assets/f563f781-807c-4a8c-923c-f9bb98c8abd1)
+" width="200" />
