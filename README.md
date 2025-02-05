@@ -13,4 +13,4 @@ Este é um projeto simples de uma calculadora desenvolvida utilizando Flutter. O
 - Flutter: Framework para criação de interfaces de usuário nativas.
 - Dart: Linguagem de programação utilizada no Flutter.
 
-<img src="calculadora.png" width="200" />
+<img src="C:\Users\estagio01.ti\Pictures\Screenshots\calculadora.png" width="200" />
