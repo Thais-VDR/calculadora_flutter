@@ -14,5 +14,3 @@ Este é um projeto simples de uma calculadora desenvolvida utilizando Flutter. O
 - Dart: Linguagem de programação utilizada no Flutter.
 
 ![image](https://github.com/user-attachments/assets/fd5ea474-cfbb-4824-842e-30bfc7acda75)
-
-
